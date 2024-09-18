@@ -1,0 +1,27 @@
+For address: 127.0.0.1
+Failed to connect to port: 80
+Failed to connect to port: 21
+Failed to connect to port: 3306
+Failed to connect to port: 995
+Failed to connect to port: 1433
+Failed to connect to port: 587
+Failed to connect to port: 3389
+Failed to connect to port: 1521
+Failed to connect to port: 53
+Failed to connect to port: 5900
+Failed to connect to port: 194
+Failed to connect to port: 443
+Failed to connect to port: 993
+Failed to connect to port: 5432
+Failed to connect to port: 22
+Failed to connect to port: 110
+Failed to connect to port: 123
+Failed to connect to port: 161
+Failed to connect to port: 67
+Failed to connect to port: 25
+Failed to connect to port: 143
+Failed to connect to port: 20
+Failed to connect to port: 23
+Failed to connect to port: 8080
+Failed to connect to port: 465
+Failed to connect to port: 68

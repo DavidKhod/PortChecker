@@ -1,0 +1,14 @@
+C:\Users\David\MyOwnProjects\PortSniffer\bin\Debug\net8.0\PortSniffer.exe
+C:\Users\David\MyOwnProjects\PortSniffer\bin\Debug\net8.0\PortSniffer.deps.json
+C:\Users\David\MyOwnProjects\PortSniffer\bin\Debug\net8.0\PortSniffer.runtimeconfig.json
+C:\Users\David\MyOwnProjects\PortSniffer\bin\Debug\net8.0\PortSniffer.dll
+C:\Users\David\MyOwnProjects\PortSniffer\bin\Debug\net8.0\PortSniffer.pdb
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.AssemblyInfoInputs.cache
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.AssemblyInfo.cs
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.csproj.CoreCompileInputs.cache
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.dll
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\refint\PortSniffer.dll
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.pdb
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\PortSniffer.genruntimeconfig.cache
+C:\Users\David\MyOwnProjects\PortSniffer\obj\Debug\net8.0\ref\PortSniffer.dll

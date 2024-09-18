@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|c:\\users\\david\\myownprojects\\portsniffer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|c:\\users\\david\\myownprojects\\portsniffer\\portsniffermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|solutionrelative:portsniffermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|c:\\users\\david\\myownprojects\\portsniffer\\outputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|solutionrelative:outputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|c:\\users\\david\\myownprojects\\portsniffer\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D942A5E4-ED85-4300-AEF4-E536E728D9CC}|PortSniffer.csproj|solutionrelative:inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:06:01.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\InputModel.cs",
+              "RelativeDocumentMoniker": "InputModel.cs",
+              "ToolTip": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\InputModel.cs",
+              "RelativeToolTip": "InputModel.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:45:28.523Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortSnifferModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\PortSnifferModel.cs",
+              "RelativeDocumentMoniker": "PortSnifferModel.cs",
+              "ToolTip": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\PortSnifferModel.cs",
+              "RelativeToolTip": "PortSnifferModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:42:36.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutPutModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\OutPutModel.cs",
+              "RelativeDocumentMoniker": "OutPutModel.cs",
+              "ToolTip": "C:\\Users\\David\\MyOwnProjects\\PortSniffer\\OutPutModel.cs",
+              "RelativeToolTip": "OutPutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:00:15.358Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
